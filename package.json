@@ -1,7 +1,7 @@
 {
   "name": "@ngryman/generator-dotfiles",
   "version": "0.0.0",
-  "description": "Create any project dotfiles.",
+  "description": "Create a project dotfiles.",
   "author": "Nicolas Gryman <ngryman@gmail.com> http://ngryman.sh",
   "license": "MIT",
   "repository": "ngryman/generator-dotfiles",

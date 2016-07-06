@@ -1,27 +1,27 @@
-# @ngryman/generator-library
+# @ngryman/generator-dotfiles
 
 [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
-[travis-image]: https://travis-ci.org/ngryman/generator-library.svg?branch=master
-[travis-url]: https://travis-ci.org/ngryman/generator-library
-[codecov-image]: https://img.shields.io/codecov/c/github/ngryman/generator-library.svg
-[codecov-url]: https://codecov.io/github/ngryman/generator-library
+[travis-image]: https://travis-ci.org/ngryman/generator-dotfiles.svg?branch=master
+[travis-url]: https://travis-ci.org/ngryman/generator-dotfiles
+[codecov-image]: https://img.shields.io/codecov/c/github/ngryman/generator-dotfiles.svg
+[codecov-url]: https://codecov.io/github/ngryman/generator-dotfiles
 
-> Scaffold a generic node library.
+> Create a project dotfiles.
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-ngryman-generator-library using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and @ngryman/generator-dotfiles using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g @ngryman/library
+npm install -g @ngryman/generator-dotfiles
 ```
 
 Then generate your new project:
 
 ```bash
-yo @ngryman/library
+yo @ngryman/dotfiles
 ```
 
 ## Getting To Know Yeoman
