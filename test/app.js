@@ -14,6 +14,7 @@ test('create dotfiles', t => {
     '.eslintrc',
     '.gitattributes',
     '.gitignore',
+    '.tern-project',
     '.travis.yml'
   ])
 })
