@@ -1,9 +1,9 @@
 'use strict'
-const yeoman = require('yeoman-generator')
+const Generator = require('yeoman-generator')
 const chalk = require('chalk')
 const yosay = require('yosay')
 
-module.exports = yeoman.Base.extend({
+module.exports = Generator.extend({
   initializing: {
     headling: function() {
       this.log(yosay(
