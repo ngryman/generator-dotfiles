@@ -1,5 +1,7 @@
 # @ngryman/generator-dotfiles
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/generator-dotfiles.svg)](https://greenkeeper.io/)
+
 [![travis][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
 [travis-image]: https://travis-ci.org/ngryman/generator-dotfiles.svg?branch=master
